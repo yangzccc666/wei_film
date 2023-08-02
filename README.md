@@ -1,2 +1,2 @@
 # wei_film
-python film learning
+python film django learning
